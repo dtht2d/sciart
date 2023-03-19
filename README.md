@@ -1,2 +1,2 @@
 # Where Science meets Art 
-Explore the beauty of science and mathematics through artful visualizations of equations
+Explore the fusion of mathematical and scientific concepts through a colorful and artistic lens with coding
